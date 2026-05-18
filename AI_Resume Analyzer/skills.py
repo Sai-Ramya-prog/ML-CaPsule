@@ -1,17 +1,30 @@
-skills_list = [
-    "python",
-    "java",
-    "c++",
-    "machine learning",
-    "deep learning",
-    "data science",
-    "sql",
-    "html",
-    "css",
-    "javascript",
-    "react",
-    "nodejs",
-    "tensorflow",
-    "pandas",
-    "numpy"
-]
+job_roles = {
+    "Data Scientist": [
+        "python",
+        "machine learning",
+        "deep learning",
+        "numpy",
+        "pandas",
+        "tensorflow",
+        "sql",
+        "statistics"
+    ],
+
+    "Web Developer": [
+        "html",
+        "css",
+        "javascript",
+        "react",
+        "nodejs",
+        "mongodb"
+    ],
+
+    "AI Engineer": [
+        "python",
+        "machine learning",
+        "deep learning",
+        "nlp",
+        "tensorflow",
+        "pytorch"
+    ]
+}
