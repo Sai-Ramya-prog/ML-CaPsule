@@ -80,7 +80,8 @@ Spectral Clustering uses graph connectivity and eigenvalue decomposition to iden
 kmeans_vs_spectral_clustering/
 │
 ├── README.md
-└─ kmeans_vs_spectral_clustering.ipynb
+├── kmeans_vs_spectral_clustering.ipynb
+└── results/
 ```
 
 ---
